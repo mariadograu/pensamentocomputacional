@@ -1,0 +1,2 @@
+# pensamentocomputacional
+me da nota
