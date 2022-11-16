@@ -1,2 +1,1 @@
-# pensamentocomputacional
-me da nota
+# 1apensamento
